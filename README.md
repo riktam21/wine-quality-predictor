@@ -4,7 +4,7 @@ This project is a basic Wine Quality Predictor using a Random Forest Classifier.
 
 ## Project Structure
 
-- `wine_quality_predictor.py`: Main script containing the code for data visualization, preprocessing, and model training.
+- `wine-predictor.py`: Main script containing the code for data visualization, preprocessing, and model training.
 - `winequality-red.csv`: Dataset containing various properties of red wine.
 
 ## Data Visualization
