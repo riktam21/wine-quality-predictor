@@ -33,5 +33,5 @@ The model's performance is evaluated on the test data, and the following metrics
 - Test Accuracy
 
 ```python
-print('Error Score : ', err_accuracy)
+print('Error Score : ', error_accuracy)
 print('Test Accuracy : ', test_accuracy)
